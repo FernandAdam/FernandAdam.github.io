@@ -11,10 +11,11 @@ Eine gute Uebersicht, wie man Ueberschriften, Stichpunkte und anderes macht, gib
 ## Wie laedt man ein Post hoch?
 - Ihr braucht einen Account auf GitHub
 - Ihr braucht den Zugang zu dem Repository(das sind die hier abgespeicherten Dateien)
-
-0. Als Erstes wuerde ich das Bild hochladen, indem man auf `images`, `add file`, `upload file` drueckt
+- *Dateinamen sollten keine Leerzeichen beinhalten!* 
+0. Als Erstes wuerde ich das Bild hochladen, indem man auf den Ordner `images` geht, dann auf den Button `add file`, `upload file` drueckt. Wenn ihr das Bild geladen habt, muesst ihr nur noch auf `commit changes` druecken.
 1. Geht auf das Verzeichnis `_posts`.
-2. Erstellt eine neue Datei, indem ihr auf `add file` und dann auf `create new file` drueckt.
+2. Erstellt eine neue Datei, indem ihr auf `add file` und dann auf `create new file` drueckt. 
+2. Den Namen kann man ueber dem Textfeld veraendern.
 3. Fuegt oder schreibt diesen Text hinein:
 > <p>--- <br>
 > layout: post <br>
