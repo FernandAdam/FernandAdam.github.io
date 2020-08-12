@@ -2,7 +2,7 @@
 layout: post
 title: "Treffen für Interessierte"
 date: 2020-08-12 12:00:00 +0200
-image: Post PW sucht.jpg
+image: post-PW-sucht.jpg
 tag: Treffen Kommunikation Ideen kreativ
 ---
 Neben Platz für Umsonstladen, Reparaturwerkstatt oder Veranstaltungen sollen unter dem Namen „Projektwerkstatt:FREIraum“ Mitmach-Projekte entstehen.  
