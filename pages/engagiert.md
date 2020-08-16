@@ -4,7 +4,7 @@ title: Engagieren
 permalink: /engagiert/
 ---
 
-Wenn du etwas bewegen willst und an Projekten in Hersfeld und in der Umgebung teilnehmen moechtest, bist du hier genau richtig. Es gibt viele Wege, um sich zu engagieren. Manche Gruppen sind
+**Wenn du etwas bewegen willst und an Projekten in Hersfeld und in der Umgebung teilnehmen moechtest, bist du hier genau richtig.** Es gibt viele Wege, um sich zu engagieren. Manche Gruppen sind
 politisch, anderen geht es nur daraum, dass es Menschen gut geht. Man kann mit anpacken oder bei formellen Sachen helfen.
 
 Jeder hat verschieden Interessen, welche man einfliessen lassen kann. Jeder kann helfen! Wenn man neu ist und noch keine Erfahrung mit Aktionen oder anderer Organisationsarbeit hat, kann man das
@@ -12,7 +12,7 @@ schnell lernen und in jeder Gruppe sind Menschen, die einem helfen, wenn etwas n
 
 Die PW:FR bietet Moeglichkeiten, um sich zu vernetzen. Hier gibt es Links und Informationen fuer verschiedene Gruppen, die mit dem der PW:FR Kontakt haben. 
 
-- Foodsharing Bad Hersfeld
+- **Foodsharing Bad Hersfeld**
 
 	Foodsharing sorgt dafuer, dass weniger Essen weggeworfen wird. Das Essen in Supermaerkten, welches ueber dem Mindesthaltbarkeitsdatum ist, oder die Brote in den Baeckereien, die nach dem
 	ersten Tag noch nicht verkauft wurden, werden meistens einfach weggeworfen. Dabei bedeutet das 'Mindesthaltbarkeitsdatum' nicht 'Ablaufdatum'. Brote sind immer nach dem ersten Tag noch essbar,
@@ -27,7 +27,7 @@ Die PW:FR bietet Moeglichkeiten, um sich zu vernetzen. Hier gibt es Links und In
 	[Offizielle Foodsharing Seite](https://foodsharing.de/)
 
 	
-- FridaysForFuture Bad Hersfeld:
+- **FridaysForFuture Bad Hersfeld:**
 	
 	Warum auf eine Zukunft bauen, die bald nicht mehr lebenswert sein wird? Unsere Antwort auf diese Frage ist der Klimastreik: Wir streiken für eine wirkungsvolle Politik, die dem Ausmaß der
 	Klimakrise gerecht wird. Wir haben zehn Jahre, um unsere Ziele zu erreichen und müssen jetzt beginnen. Auf geht’s!
