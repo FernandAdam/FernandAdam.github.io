@@ -50,4 +50,4 @@ Die PW:FR bietet Möglichkeiten, um sich zu vernetzen und auszutauschen. Unten s
 	Das Bündnis gründete sich am Dienstag, den 12. Mai 2015. Im Bündnis sind demokratische Parteien, Kirchengemeinden, Gewerkschaften, soziokulturelle Einrichtungen, Bürger-, Jugend- und Sportvereine sowie politische, kulturelle und lokale Projekte und Bündnisse vertreten.
 	Aktivitäten: Informationsveranstaltungen, Lesungen, Info-Stände, Filmabende, Konzerte, Demonstrationen
 	
-	[Website](http://buntstattbraun-hef-rof.de/h)
+	[Website](http://buntstattbraun-hef-rof.de/)
