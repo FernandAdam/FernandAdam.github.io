@@ -3,7 +3,7 @@ layout: post
 title: "Treffen für Interessierte"
 date: 2020-08-12 12:00:00 +0200
 image: post-PW-sucht.jpg
-tag: Treffen Kommunikation Ideen kreativ
+tag: Treffen
 ---
 Neben Platz für Umsonstladen, Reparaturwerkstatt oder Veranstaltungen sollen unter dem Namen „Projektwerkstatt:FREIraum“ Mitmach-Projekte entstehen.  
 Ob Urban-Gardening, Küche für alle oder Impro-Theater – kreativen Ideen sind keine Grenzen gesetzt!
