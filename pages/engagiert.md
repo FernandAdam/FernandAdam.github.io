@@ -20,8 +20,10 @@ Die PW:FR bietet Möglichkeiten, um sich zu vernetzen und auszutauschen. Unten s
 	In Frankreich wurde es wenigstens für Supermärkte zur Pflicht, genießbares Essen an Tafeln oder andere Organisatoren zu spenden. Solange es das in Deutschland noch nicht gibt, haben es          diese meist auf Freiwilligkeit basierenden Organisationen schwer. Essen aus den 'Mülleimern' der Supermärkte zu retten, ist illegal. Das muss sich ändern und dafür treten wir ein!
 
 	Die Foodsharing-Gruppen gehen zu Bäckereien oder anderen Läden, bei denen auf Nachfrage Teile übrig gebliebener Lebensmittel gespendet werden. Danach werden die geretteten Lebensmittel meistens bei regulären Öffnungszeiten an einem bestimmten Ort verteilt.
-
-        [Offizielle Foodsharing Seite](https://foodsharing.de/)
+	
+	[Offizielle Foodsharing Seite](https://foodsharing.de/)
+	
+	[Link zur lokalen Foodsharing Gruppe in Hersfeld](https://chat.whatsapp.com/JtDpzjNm2KVCZFHEHtGUxc)
 
 - **FridaysForFuture Bad Hersfeld**
 
