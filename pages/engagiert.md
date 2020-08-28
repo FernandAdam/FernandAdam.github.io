@@ -15,9 +15,9 @@ Die PW:FR bietet Möglichkeiten, um sich zu vernetzen und auszutauschen. Unten s
 
 - **Foodsharing Bad Hersfeld**
 
-	Foodsharing sorgt dafür, dass weniger Essen weggeworfen wird. Das Essen in Supermärkten, welches über dem Mindesthaltbarkeitsdatum ist, oder die Brote in den Bäckereien, die nach dem ersten Tag noch nicht verkauft wurden, werden meistens einfach weggeworfen. Dabei bedeutet das 'Mindesthaltbarkeitsdatum' nicht 'Ablaufdatum'. Brote sind immer nach dem ersten Tag noch essbar,         aber es kümmert sich kaum jemand darum, dass dieses Essen nicht weggeworfen wird.
+	Foodsharing sorgt dafür, dass weniger Essen weggeworfen wird. Das Essen in Supermärkten, welches über dem Mindesthaltbarkeitsdatum ist, oder die Brote in den Bäckereien, die nach dem ersten Tag noch nicht verkauft wurden, werden meistens einfach weggeworfen. Dabei bedeutet das 'Mindesthaltbarkeitsdatum' nicht 'Ablaufdatum'. Brote sind immer nach dem ersten Tag noch essbar, aber es kümmert sich kaum jemand darum, dass dieses Essen nicht weggeworfen wird.
 
-	In Frankreich wurde es wenigstens für Supermärkte zur Pflicht, genießbares Essen an Tafeln oder andere Organisatoren zu spenden. Solange es das in Deutschland noch nicht gibt, haben es          diese meist auf Freiwilligkeit basierenden Organisationen schwer. Essen aus den 'Mülleimern' der Supermärkte zu retten, ist illegal. Das muss sich ändern und dafür treten wir ein!
+	In Frankreich wurde es wenigstens für Supermärkte zur Pflicht, genießbares Essen an Tafeln oder andere Organisatoren zu spenden. Solange es das in Deutschland noch nicht gibt, haben es diese meist auf Freiwilligkeit basierenden Organisationen schwer. Essen aus den 'Mülleimern' der Supermärkte zu retten, ist illegal. Das muss sich ändern und dafür treten wir ein!
 
 	Die Foodsharing-Gruppen gehen zu Bäckereien oder anderen Läden, bei denen auf Nachfrage Teile übrig gebliebener Lebensmittel gespendet werden. Danach werden die geretteten Lebensmittel meistens bei regulären Öffnungszeiten an einem bestimmten Ort verteilt.
 	
@@ -50,6 +50,7 @@ Die PW:FR bietet Möglichkeiten, um sich zu vernetzen und auszutauschen. Unten s
 	Bunt statt Braun Bad Hersfeld-Rotenburg ist ein Bündnis von Menschen und Organisationen, das für Toleranz und Vielfalt steht und sich gegen Rassismus und Faschismus wendet. Das Bündnis setzt sich für eine Willkommenskultur ein und will so informieren, dass Nazis und Faschisten nie wieder Einfluss im gesellschaftlichen Leben nehmen können. Zukünftige Termine und unsere Treffen finden sich in unserem Kalender und bei Facebook.
 
 	Das Bündnis gründete sich am Dienstag, den 12. Mai 2015. Im Bündnis sind demokratische Parteien, Kirchengemeinden, Gewerkschaften, soziokulturelle Einrichtungen, Bürger-, Jugend- und Sportvereine sowie politische, kulturelle und lokale Projekte und Bündnisse vertreten.
+
 	Aktivitäten: Informationsveranstaltungen, Lesungen, Info-Stände, Filmabende, Konzerte, Demonstrationen
 	
 	[Website](http://buntstattbraun-hef-rof.de/)
