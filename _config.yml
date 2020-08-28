@@ -1,7 +1,9 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://projektwerkstatt-freiraum.tk" # the base hostname & protocol for your site, e.g. http://example.com
+plugins:
+        - jekyll-seo-tag
 
-
+tagline: Freiraum | Bad Hersfeld | Projektwerkstatt
 # Build settings
 markdown: kramdown
 permalink: pretty
